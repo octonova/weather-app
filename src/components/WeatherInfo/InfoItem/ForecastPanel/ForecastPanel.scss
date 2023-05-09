@@ -1,0 +1,11 @@
+.forecast-panel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 20px 0 0 0;
+  grid-column: 1/3;
+  grid-row: 3/5;
+  background: #fff;
+  border-radius: 25px;
+}

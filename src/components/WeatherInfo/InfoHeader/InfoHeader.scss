@@ -1,0 +1,46 @@
+.info-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto 0 auto;
+    max-width: 800px;
+    max-height: 60px;
+
+    &-button {
+      width: 330px;
+      height: 40px;
+      margin: 0 40px 0 40px;
+      text-align: center;
+      cursor: pointer;
+      color: #fff;
+      transition: background-color 0.3s ease;
+      background: transparent;
+      border: 3px solid #fff;
+      border-radius: 5px;
+
+      &:hover {
+        background-color: #fff;
+        color: #000;
+        cursor: pointer;
+
+        span {
+          color: #000;
+        }
+      }
+
+      span {
+        font-size: 24px;
+        line-height: 28px;
+        text-decoration: underline;
+        color: #fff;
+        transition: background-color 0.3s ease;
+      }
+    }
+    .translate {
+      margin: 0;
+      svg {
+        margin: 0;
+      }
+    }
+}

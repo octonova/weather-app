@@ -1,0 +1,19 @@
+.main-feels {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 20px;
+  align-items: flex-start;
+  &-description {
+    margin: 0;
+    font-size: 18px;
+    line-height: 21px;
+    color: #fff;
+    white-space: nowrap;
+  }
+  &-feels {
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    line-height: 19px;
+    color: #fff;
+  }
+}

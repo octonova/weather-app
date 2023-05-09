@@ -1,0 +1,13 @@
+.brief-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  grid-column: 1/5;
+  grid-row: 1/1;
+  &-temperature {
+    margin: 0;
+    font-size: 64px;
+    line-height: 76px;
+    color: #fff;
+  }
+}

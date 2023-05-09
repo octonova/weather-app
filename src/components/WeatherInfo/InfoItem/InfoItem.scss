@@ -1,0 +1,8 @@
+.info-item {
+    display: grid;
+    width: 950px;
+    height: 450px;
+    margin: 10px 25px 20px 25px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 50px repeat(3, 1fr);
+}
