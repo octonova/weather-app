@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5b624b-a783-4579-b38a-57beb8f961d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/ErrorWindow/ErrorWindow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ErrorWindow/ErrorWindow.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Icons/Icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Icons/Icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/InfoItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/InfoItem.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/WeatherInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/WeatherInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <workItem from="1683482579878" duration="689000" />
       <workItem from="1683563577729" duration="13543000" />
       <workItem from="1683589970960" duration="2327000" />
-      <workItem from="1683592584333" duration="453000" />
+      <workItem from="1683592584333" duration="579000" />
     </task>
     <servers />
   </component>
