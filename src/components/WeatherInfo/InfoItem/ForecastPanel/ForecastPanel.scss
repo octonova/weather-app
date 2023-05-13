@@ -9,3 +9,13 @@
   background: #fff;
   border-radius: 25px;
 }
+
+@media (max-width: 992px) {
+  .forecast-panel {
+    width: 325px;
+    height: 100px;
+    margin: 10px 0 10px 0;
+    grid-column: 1/3;
+    grid-row: 3;
+  }
+}

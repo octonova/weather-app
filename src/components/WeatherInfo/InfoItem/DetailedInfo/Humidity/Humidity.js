@@ -9,7 +9,7 @@ const Humidity = ({ weatherData }) => {
 
     return (
         <div className="detailed-humidity">
-            <span>
+            <span className="detailed-humidity-icon">
                 <WiRaindrop size={50} color="white"/>
             </span>
             <p>Влажность: {humidity}%</p>

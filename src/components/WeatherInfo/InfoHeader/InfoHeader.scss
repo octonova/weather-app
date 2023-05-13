@@ -44,3 +44,37 @@
       }
     }
 }
+
+@media (max-width: 992px) {
+  .info-header {
+    &-button {
+      width: 125px;
+      height: 25px;
+      margin: 0 20px 0 20px;
+    }
+
+    span {
+      font-size: 12px;
+      line-height: 14px;
+    }
+
+    span {
+      text-decoration: none;
+    }
+
+    .translate {
+
+      svg {
+        margin: 10px auto 10px auto;
+        height: 25px;
+        width: 25px;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .info-header {
+    margin: 15px auto 0 auto;
+  }
+}

@@ -8,9 +8,9 @@ const InfoHeader = ({ handleGoToCitySelection, handleRefreshWeather }) => {
 
     return (
         <div className="info-header">
-            <button onClick={handleGoToCitySelection} className="info-header-button"><span>Перейти к выбору города</span></button>
+            <button onClick={handleGoToCitySelection} className="info-header-button"><span>Выбор города</span></button>
             <Translate/>
-            <button onClick={handleRefreshWeather} className="info-header-button"><span>Обновить данные погоды</span></button>
+            <button onClick={handleRefreshWeather} className="info-header-button"><span>Обновить данные</span></button>
         </div>
     )
 

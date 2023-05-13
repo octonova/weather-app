@@ -8,3 +8,15 @@
   grid-column: 1/3;
   grid-row: 2/3;
 }
+
+@media (max-width: 992px) {
+  .item-brief {
+    width: 325px;
+    height: 150px;
+    grid-column: 1/2;
+    grid-row: 2;
+    grid-template-columns: repeat(2, 165px);
+    grid-template-rows: repeat(2, 80px);
+    margin: 10px auto 10px auto;
+  }
+}

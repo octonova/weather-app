@@ -4,16 +4,50 @@
   align-items: center;
   grid-column: 1/5;
   grid-row: 3/3;
+
   p {
     text-align: center;
     font-size: 16px;
     line-height: 19px;
     color: #fff;
   }
+
   .sun-rise {
     margin: 0 10px 0 0;
   }
+
   svg {
     margin: 0 12px 0 12px;
+  }
+}
+
+@media (max-width: 992px) {
+  .brief-sun {
+    margin: 10px 50px 0 0;
+    display: grid;
+    grid-column: 2/3;
+    grid-row: 2;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 20px);
+
+    p {
+      text-align: left;
+      margin: 0 10px 0 10px;
+      font-size: 12px;
+      line-height: 14px;
+      grid-column: 2/3;
+      white-space: nowrap;
+    }
+
+    .sun-rise {
+      margin: 0 10px 0 10px;
+    }
+
+    svg {
+      height: 25px;
+      width: 25px;
+      margin: 0 0 0 25px;
+      grid-column: 1/2;
+    }
   }
 }

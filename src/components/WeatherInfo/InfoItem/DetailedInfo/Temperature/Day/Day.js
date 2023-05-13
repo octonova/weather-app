@@ -8,9 +8,9 @@ const Day = ({ weatherData }) => {
 
     return (
         <div className="temperature-day">
-                <span>
-                    <WiDaySunny size={50} color="white"/>
-                </span>
+            <span className="temperature-day-icon">
+                <WiDaySunny size={50} color="white"/>
+            </span>
             <p>День: {dayTemperature}°</p>
         </div>
     );

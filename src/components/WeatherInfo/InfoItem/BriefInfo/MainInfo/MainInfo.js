@@ -12,7 +12,9 @@ const MainInfo = ({ weatherData }) => {
     return (
         <div className="brief-main">
             <h3 className="brief-main-temperature">{mainTemperature}°</h3>
-            <WeatherIcon code={weatherIcon} source="MainInfo" size={80} color="white" />
+            <span className="brief-main-icon">
+                <WeatherIcon code={weatherIcon} source="MainInfo" size={80} color="white" />
+            </span>
             <FeelsLike weatherData={weatherData}/>
         </div>
     );

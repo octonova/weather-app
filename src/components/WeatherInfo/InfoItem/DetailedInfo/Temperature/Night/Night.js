@@ -8,7 +8,7 @@ const Night = ({ weatherData }) => {
 
     return (
         <div className="temperature-night">
-            <span>
+            <span className="temperature-night-icon">
                 <WiNightClear size={50} color="white"/>
             </span>
             <p>Ночь: {nightTemperatureAtMidnight}°</p>

@@ -9,7 +9,7 @@ const Pressure = ({ weatherData }) => {
 
     return (
         <div className="detailed-pressure">
-            <span>
+            <span className="detailed-pressure-icon">
                 <WiBarometer size={50} color="white"/>
             </span>
             <p>Давление: {pressure} мм</p>

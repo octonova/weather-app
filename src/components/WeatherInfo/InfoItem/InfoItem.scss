@@ -6,3 +6,13 @@
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 50px repeat(3, 1fr);
 }
+
+@media (max-width: 992px) {
+    .info-item {
+        margin: 10px auto 15px auto;
+        width: 325px;
+        height: 500px;
+        grid-template-columns: repeat(2, 150px);
+        grid-template-rows: 50px 150px 100px 250px;
+    }
+}

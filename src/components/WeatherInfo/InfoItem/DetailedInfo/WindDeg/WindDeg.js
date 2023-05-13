@@ -11,7 +11,7 @@ const WindDeg = ({ weatherData }) => {
 
     return (
         <div className="detailed-wind-deg">
-            <span>
+            <span className="detailed-wind-deg-icon">
                 <WindDirectionIcon deg={windDeg} />
             </span>
             <p>Направление: {WindDirectionValue}</p>
