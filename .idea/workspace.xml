@@ -3,23 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b5b624b-a783-4579-b38a-57beb8f961d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CityInput/CityInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CityInput/CityInput.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ErrorWindow/ErrorWindow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ErrorWindow/ErrorWindow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/BriefInfo/MainInfo/FeelsLike/FeelsLike.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/BriefInfo/MainInfo/FeelsLike/FeelsLike.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Clouds/Clouds.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Clouds/Clouds.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/DetailedInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/DetailedInfo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Humidity/Humidity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Humidity/Humidity.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Pressure/Pressure.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Pressure/Pressure.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Temperature/Night/Night.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/Temperature/Night/Night.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/UvIndex/UvIndex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/UvIndex/UvIndex.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/WindDeg/WindDeg.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/WindDeg/WindDeg.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/WindSpeed/WindSpeed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/DetailedInfo/WindSpeed/WindSpeed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemCurrent/PanelItemCurrent.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemCurrent/PanelItemCurrent.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast12/PanelItemForecast12.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast12/PanelItemForecast12.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast3/PanelItemForecast3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast3/PanelItemForecast3.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast6/PanelItemForecast6.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast6/PanelItemForecast6.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast9/PanelItemForecast9.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/InfoItem/ForecastPanel/PanelItemForecast9/PanelItemForecast9.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherInfo/WeatherInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherInfo/WeatherInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Icons/Icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Icons/Icons.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Projects/deploy/react/weather-app-v.2&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/Projects/deploy/react/weather-app-v.2",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Projects\deploy\react\weather-app-v.2\src\components\WeatherInfo\InfoItem\ForecastPanel\PanelItemCurrent" />
@@ -93,7 +77,8 @@
       <workItem from="1683592584333" duration="796000" />
       <workItem from="1683889571548" duration="24881000" />
       <workItem from="1684084080130" duration="37000" />
-      <workItem from="1684084188960" duration="1785000" />
+      <workItem from="1684084188960" duration="2711000" />
+      <workItem from="1684231240663" duration="27000" />
     </task>
     <servers />
   </component>
